@@ -31,9 +31,9 @@ This fervor, my affinity for computer work, and my drive for continual growth an
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+## ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-##   <img style="display: block; user-select: none; margin: auto; background-color: rgb(230, 230, 230); --darkreader-inline-bgcolor:#26292b;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif" data-darkreader-inline-bgcolor="">
+<img style="display: block; user-select: none; margin: auto; background-color: rgb(230, 230, 230); --darkreader-inline-bgcolor:#26292b;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif" data-darkreader-inline-bgcolor="">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbringitback&show_icons=true&theme=transparent)
 
