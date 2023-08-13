@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/103485149622063104)
 
 
-## **`Junior Full-Stack Web Developer!🚀`**
+**`Junior Full-Stack Web Developer!🚀`**
 <details>
    <summary><h3>👨‍💻My Coding Journey</h3></summary>
 I've always been drawn to working with computers, exploring various realms like audio editing, UI design, video editing, and gaming. While I dabbled in these areas to some extent, gaming became my primary focus. Nevertheless, my passion for computer work remained strong, and I can envision myself still immersed in it even 40 years from now. However, the title of "Developer" always seemed a bit intimidating, as I believed it required formal education or a certain level of academic prowess. Yet, the desire to be part of this field persisted.
