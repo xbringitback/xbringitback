@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Chris</h1>
+<h1 align="center">Hi👋, I'm Chris</h1> **`👋 Hey there, I'm Chris, a passionate Junior Full-Stack Web Developer! 🚀`**
 
 **`Junior Full-Stack Web Developer`**
 
