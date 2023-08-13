@@ -1,9 +1,10 @@
 <h1 align="center">Hi👋, I'm Chris</h1>
 
+**`Junior Full-Stack Web Developer!🚀`**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-mütterlein-49302a287) 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ID:103485149622063104
-**`Junior Full-Stack Web Developer!🚀`**
 
 <details>
    <summary><h3>👨‍💻My Coding Journey</h3></summary>
