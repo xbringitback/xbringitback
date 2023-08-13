@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Chris</h1>
 
-## **`Junior Full-Stack Web Developer!🚀`**
+**`Junior Full-Stack Web Developer!🚀`**
 
 <details>
    <summary><h3>👨‍💻My Coding Journey</h3></summary>
