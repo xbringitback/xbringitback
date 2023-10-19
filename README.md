@@ -1,10 +1,6 @@
 <h1 align="center">Hi👋, I'm Chris</h1>
 
 
-<h3>🌐 Socials:</h3>
- 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/103485149622063104)
-
 ##
 
 **`Junior Full-Stack Web Developer!🚀`**
