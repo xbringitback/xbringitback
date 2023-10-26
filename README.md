@@ -40,7 +40,9 @@ I relish the opportunity to express my creativity and exercise autonomy, and I w
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=html,nodejs,nextjs,express,mongodb)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,shopify)](https://skillicons.dev)
 ##
 
