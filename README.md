@@ -21,7 +21,8 @@ I relish the opportunity to express my creativity and exercise autonomy, and I w
 ## <h3>🌐 Socials:</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/103485149622063104)
-[![My Skills](https://skillicons.dev/icons?i=discord)]([https://skillicons.dev](https://discord.com/users/103485149622063104))
+[![My Skills](https://skillicons.dev/icons?i=discord)][https://skillicons.dev](https://discord.com/users/103485149622063104)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-mütterlein-49302a287)
 
 ## <h3>💻Tech Stack:</h3>
