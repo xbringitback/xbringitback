@@ -16,11 +16,11 @@ This passion, my affinity for computer work and my drive for continuous growth a
 I relish the opportunity to express my creativity and exercise autonomy, and I welcome the new challenges that come my way.
 </details>
 
+##
+
 <h3>🌐 Socials:</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/103485149622063104)
-
-##
 
 ## <h3>💻Tech Stack:</h3>
 
