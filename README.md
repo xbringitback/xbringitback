@@ -29,7 +29,9 @@ I relish the opportunity to express my creativity and exercise autonomy, and I w
 
 ## <h3>💻Tech Stack:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,nodejs,nextjs,express,mongodb,figma,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,nodejs,nextjs,express)
+
+![My Skills](https://skillicons.dev/icons?i=mongodb,figma,git,github,prisma,ts,vercel,aws)
 
 ##
 
