@@ -9,7 +9,7 @@
 
 
 
-## <h3>🌐Socials:</h3>
+<h3>🌐Socials:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/103485149622063104)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/christopher-mütterlein-49302a287)
